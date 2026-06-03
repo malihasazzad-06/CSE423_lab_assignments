@@ -1,6 +1,6 @@
 # CSE423_lab_assignments
 
-**Assignment 1**
+#**CSE423 Computer Graphics Lab Assignment 1**
 
 This project is the implementation of **CSE423 Computer Graphics Lab Assignment 1** using **Python OpenGL (GLUT)**. It focuses on creating interactive 2D graphics and animations using basic OpenGL primitives, along with keyboard and mouse event handling. The entire solution is written in a single Python file following the given constraints.
 
@@ -19,7 +19,7 @@ The second part is a game called **“Catch the Diamonds!”**. In this game, a 
 The project strictly uses OpenGL primitives and reinforces concepts of line drawing, animation, and interactive game design.
 
 
- **CSE423 Lab 03: OpenGL 3D Introduction and Transformation**.
+ #**CSE423 Lab 03: OpenGL 3D Introduction and Transformation**.
  
  It focuses on understanding **3D graphics in PyOpenGL** and how objects are controlled in a 3D world using **translation, rotation, scaling, and perspective projection (gluPerspective, gluLookAt)**. It also explains how camera positioning and viewing direction work in a 3D environment.
 
